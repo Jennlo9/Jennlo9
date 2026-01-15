@@ -23,3 +23,5 @@ Me gusta aprender constantemente.
 - ✉️ Email: *(jennloveto23@gmail.com)*
 
 ✨ Siempre abierta a aprender y crecer en roles donde los **datos, la operación y la tecnología** se crucen.
+
+<img src="https://github.com/Jennlo9/Jennlo9/blob/main/pngtree-gradient-black-background-with-gold-textured-lines-picture-image_15171433.jpg?raw=true" width="100%" height="90px">

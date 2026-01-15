@@ -1,4 +1,5 @@
-<img src="https://github.com/Jennlo9/Jennlo9/blob/main/pngtree-gradient-black-background-with-gold-textured-lines-picture-image_15171433.jpg?raw=true" width="100%">
+<img src="https://github.com/Jennlo9/Jennlo9/blob/main/pngtree-gradient-black-background-with-gold-textured-lines-picture-image_15171433.jpg?raw=true" width="100%" height="250px">
+
 
 # 👋 Hola, soy Jennifer Vega
 
